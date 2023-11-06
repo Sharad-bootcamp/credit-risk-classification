@@ -1,9 +1,9 @@
 # credit-risk-classification
 Week 20 Challenge
 
-Report and Analysis - report-template.md
+Report and Analysis - Resources --> report-template.md
 
-Codes and answers - credit_risk_classification.ipynb
+Codes and answers - Resources --> credit_risk_classification.ipynb
 
 Help & Support 
 
