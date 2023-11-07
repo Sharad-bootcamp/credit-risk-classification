@@ -1,11 +1,11 @@
 # credit-risk-classification
 Week 20 Challenge
 
-Report and Analysis - report-template.md
+# Report and Analysis - report-template.md
 
-Codes and answers - credit_risk_classification.ipynb
+# Codes and answers - credit_risk_classification.ipynb
 
-Help & Support 
+# Help & Support:
 
 https://www.youtube.com/watch?v=yIYKR4sgzI8
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html

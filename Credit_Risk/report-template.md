@@ -2,7 +2,9 @@
 
 ## Overview of the Analysis
 
-The analysis aimed to assess the performance of two logistic regression machine learning models in predicting credit risk associated with loans. The dataset consisted of historical lending data from a peer-to-peer lending services company, and the goal was to classify loans into low-risk (0) or high-risk (1) categories. The analysis involved the following key steps:
+The analysis aimed to assess the performance of two logistic regression machine learning models in predicting credit risk associated with loans. The dataset consisted of historical lending data from a peer-to-peer lending services company, and the goal was to classify loans into low-risk (0) or high-risk (1) categories. 
+
+The analysis involved the following key steps:
 
 1.	Data Splitting: The dataset, comprising 77,536 data points, was split into training and testing sets.
 2.	Model 1 (Original Data): The first logistic regression model (Logistic Regression Model 1) was built using the original data. Model 1 was then applied to the testing dataset, and its performance was evaluated.
@@ -10,7 +12,7 @@ The analysis aimed to assess the performance of two logistic regression machine 
 4.	Model 2 (Resampled Data): A new logistic regression model (Logistic Regression Model 2) was constructed using the resampled data, and its performance was assessed.
 
 
-## Results
+## Results and factors considered:
 
 Key factors considered in the analysis included loan size, interest rate, borrower's income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 The results of the analysis for both models are summarized as follows:
