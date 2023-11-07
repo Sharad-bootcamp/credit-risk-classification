@@ -1,15 +1,10 @@
 # credit-risk-classification
 Week 20 Challenge
 
-<<<<<<< HEAD
-# Report and Analysis - report-template.md
 
-# Codes and answers - credit_risk_classification.ipynb
-=======
-Report and Analysis - Resources --> report-template.md
+## Report and Analysis --> report-template.md
 
-Codes and answers - Resources --> credit_risk_classification.ipynb
->>>>>>> 85f26672484f98e4397ad3b9eee8bfa127dd3264
+## Codes and answers --> credit_risk_classification.ipynb
 
 # Help & Support:
 
